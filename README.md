@@ -1,6 +1,6 @@
 ### Ola! sou jonatas 👋
 
-- 🌱 Eu estou estudando Java/Python/HTML
+- 🌱 Eu estou estudando Homelab
 - 😄 Pronome: ele/dele
 
 <div align="center">
@@ -10,7 +10,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Rafa-Js" height="40" width="50" src="https://b.thumbs.redditmedia.com/Flac-ySmslzY0SE583PNA42rFbcYxLt7hqgCeUrC11s.png" />
 </div>
   
  ##
