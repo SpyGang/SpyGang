@@ -1,6 +1,6 @@
 ### Ola! sou jonatas 👋
 
-- 🌱 Eu estou estudando Homelab
+- 🌱 Eu estou estudando Docker 
 - 😄 Pronome: ele/dele
 
 <div align="center">
